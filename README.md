@@ -29,6 +29,19 @@ Key Analytical Capabilities:
 
 ---
 
+
+## 🖥️ Interactive Live Dashboard Suite
+
+This repository includes a fully standalone, responsive HTML5/CSS3 executive analytics dashboard:
+- **File**: [`dashboard.html`](dashboard.html)
+- **Engine**: Chart.js, Glassmorphism, and responsive CSS grid
+- **Capabilities**: Real-time simulated telemetry stream, interactive time-range filtering, 12-month performance trajectory, milestone latency bars, and audit telemetry table.
+
+> [!TIP]
+> To launch the interactive dashboard locally, clone this repository and double-click [`dashboard.html`](dashboard.html) to open it in Google Chrome, Microsoft Edge, or Firefox without any web server or package installation required.
+
+---
+
 ## 📊 Visual Analytics Suite
 
 ### 1️⃣ Executive KPI Command Center (Warm Luxury Ivory & Bronze (Warm Light))
