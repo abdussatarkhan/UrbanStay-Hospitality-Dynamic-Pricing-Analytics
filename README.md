@@ -15,6 +15,15 @@
 
 </div>
 
+<div align="center">
+
+[![Daily Streak](https://img.shields.io/badge/Daily%20Streak-Active%20%F0%9F%94%A5-brightgreen?style=flat-square&logo=github)](https://github.com/abdussatarkhan)
+[![Master Portfolio](https://img.shields.io/badge/Portfolio-50%2B%20Enterprise%20Projects-0e75b6?style=flat-square&logo=github)](https://github.com/abdussatarkhan/abdussatarkhan)
+[![Author: Abdussatar](https://img.shields.io/badge/Author-Abdussatar-24292e?style=flat-square&logo=github)](https://github.com/abdussatarkhan)
+
+</div>
+
+
 ---
 
 ## 📋 Executive Summary
@@ -135,3 +144,15 @@ pytest tests/ -v
 - GitHub: [@abdussatarkhan](https://github.com/abdussatarkhan)  
 - LinkedIn: [linkedin.com/in/abdus-satar-5150813b5](https://www.linkedin.com/in/abdus-satar-5150813b5/)  
 - Email: [satarabdus692@gmail.com](mailto:satarabdus692@gmail.com)
+
+
+---
+
+<div align="center">
+
+### 👨‍💻 Maintained by [Abdussatar (@abdussatarkhan)](https://github.com/abdussatarkhan)
+Part of the **[Master Enterprise Data Analytics & AI Portfolio](https://github.com/abdussatarkhan/abdussatarkhan)**.
+
+⭐ If you find this repository valuable, consider dropping a star! ⭐
+
+</div>
