@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "urbanstay_hospitality_dynamic_pricing_analytics"
+version = "1.0.0"
+description = "Global Hospitality & Short-Term Rental Revenue Data Warehouse: RevPAR optimization, ADR demand elasticity, OTA channel commission leakage, and booking lead times."
+readme = "README.md"
+authors = [
+    { name = "Abdussatar", email = "satarabdus692@gmail.com" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Information Analysis"
+]
